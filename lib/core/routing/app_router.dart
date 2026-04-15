@@ -1,5 +1,5 @@
 import 'package:doc_now/core/routing/routes.dart';
-import 'package:doc_now/features/login/login_screen.dart';
+import 'package:doc_now/features/login/ui/login_screen.dart';
 import 'package:doc_now/features/onboarding/onboarding_screen.dart';
 import 'package:flutter/material.dart';
 
